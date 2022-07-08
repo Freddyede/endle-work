@@ -1,7 +1,7 @@
 # endle-work
 
 #### **<u><em>Date de début : 06/07/2022</em></u>**
-
+#### **<u><em>Tâches à faire : [Endle-Work](https://sharing.clickup.com/20453045/l/h/4-60662896-1/0483907d56ebc71)</em></u>**
 ## <u>Quels sont les objectifs de Endle-Work ? :</u>
 
 ### Endle Work va permettre à certains utilisateurs finaux de pouvoir développer leurs nouveaux sites internet applications mobile, (etc.).
